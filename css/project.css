@@ -1,0 +1,50 @@
+#project {
+	width: 1024px;
+	height: 600px;
+	margin: 0 auto;
+}
+
+#project_first {
+	width: 1024px;
+	height: 320px;
+	margin: 0 auto;
+	padding-left: 60px;
+	padding-top: 160px;
+}
+
+#project_name {
+	float: left;
+	margin: 0 auto;
+	width: 154px;
+	height: 320px;
+	font-size: 20px;
+}
+
+#project_secend {
+	width: 1024px;
+	height: 280px;
+	background-color: #1A1A1A;
+	margin: 0 auto;
+}
+
+.wrap {
+	padding: 0px;
+}
+
+.dowebok {
+	float: left;
+	margin: 0 auto;
+	font-size: 0;
+	height: 320px;
+	background:rgba(255, 255, 255, 0.0) !important;
+	filter:Alpha(opacity=50);
+}
+
+.dowebok img {
+	margin-left: -10px;
+	vertical-align: top;
+	width: 231px;
+	height: 320px;
+	background:rgba(255, 255, 255, 0.0) !important;
+	filter:Alpha(opacity=50);
+}

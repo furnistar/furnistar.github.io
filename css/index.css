@@ -1,0 +1,28 @@
+#index{
+	width: 1024px;
+	height: 600px;
+	margin: 0 auto;
+}
+#index_top{
+	width: 1024px;
+	height: 140px;
+	margin: 0 auto;
+}
+/*首页-中部内容*/
+#index_center{
+	width: 1024px;
+	height: 460px;
+	margin: 0 auto;
+}
+#index_center_left{
+	float: left;
+	width:810px;
+	height: 460px;
+	background-image: url(../img/index.png);
+}
+#index_center_right{
+	float: right;
+	width: 60px;
+	height: 460px;
+	background-color: #1A1A1A;
+}

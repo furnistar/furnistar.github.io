@@ -1,0 +1,82 @@
+#service_system{
+	background-color: #FFFFFF;
+	width: 1024px;
+	height: 600px;
+	margin:0 auto;
+}
+#service_system_top{
+	width: 1024px;
+	height: 200px;
+	margin: 0 auto;
+}
+#service_system_top p{
+	padding-top: 120px;
+	padding-left: 60px;
+	font-size: 20px;
+	font-weight: bold;
+}
+#service_system_bottom{
+	width: 1024px;
+	height: 400px;
+	padding-left: 60px;
+}
+#service_system_img_1{
+	float: left;
+	width: 180px;
+	height: 400px;
+	background-image: url(../img/order_black.png);
+}
+#service_system_img_1:hover{
+	float: left;
+	width: 180px;
+	height: 400px;
+	background-image: url(../img/order_write.png);
+}
+#service_system_img_2{
+	float: left;
+	width: 180px;
+	height: 400px;
+	background-image: url(../img/muji_black.png);
+}
+#service_system_img_2:hover{
+	float: left;
+	width: 180px;
+	height: 400px;
+	background-image: url(../img/muji_write.png);
+}
+#service_system_img_3{
+	float: left;
+	width: 180px;
+	height: 400px;
+	background-image: url(../img/consolid_service_black.png);
+}
+#service_system_img_3:hover{
+	float: left;
+	width: 180px;
+	height: 400px;
+	background-image: url(../img/consolid_service_write.png);
+}
+#service_system_img_4{
+	float: left;
+	width: 180px;
+	height: 400px;
+	background-image: url(../img/install_service_black.png);
+}
+#service_system_img_4:hover{
+	float: left;
+	width: 180px;
+	height: 400px;
+	background-image: url(../img/install_service_write.png);
+}
+#service_system_img_5{
+	float: left;
+	width: 180px;
+	height: 400px;
+	background-image: url(../img/after_sale_service_black.png);
+}
+#service_system_img_5:hover{
+	float: left;
+	width: 180px;
+	height: 400px;
+	background-image: url(../img/after_sale_service_write.png);
+}
