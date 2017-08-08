@@ -1,0 +1,62 @@
+ul,
+li,
+div {
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+}
+
+#demo {
+	margin-top: 340px;
+	margin-left: 400px;
+	width: 1024px;
+	float: left;
+	overflow: hidden;
+	height: 305px;
+	border: none;
+}
+
+#indemo {
+	float: left;
+	width: 800%;
+}
+
+#demo1,
+#demo2 {
+	height: 305px;
+	float: left;
+	display: inline-table;
+}
+
+#demo1 li,
+#demo2 li {
+	width: 250px;
+	height: 305px;
+	float: left;
+	padding-left: 8px;
+}
+
+#demo1 li img,
+#demo2 li img {
+	display: block;
+	background: #ccc;
+	padding: 1px;
+	border: none;
+}
+
+#demo1 li span,
+#demo2 li span {
+	width: 127px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	overflow: hidden;
+}
+
+#demo1 {
+	float: left;
+}
+
+#demo2 {
+	float: left;
+}

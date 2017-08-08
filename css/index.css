@@ -1,28 +1,105 @@
-#index{
-	width: 1024px;
-	height: 600px;
-	margin: 0 auto;
-}
-#index_top{
-	width: 1024px;
-	height: 140px;
-	margin: 0 auto;
-}
-/*首页-中部内容*/
-#index_center{
-	width: 1024px;
-	height: 460px;
-	margin: 0 auto;
-}
-#index_center_left{
-	float: left;
-	width:810px;
-	height: 460px;
+#index {
 	background-image: url(../img/index.png);
+	background-size: 100%;
 }
-#index_center_right{
-	float: right;
-	width: 60px;
-	height: 460px;
-	background-color: #1A1A1A;
+
+#nav_index {
+	z-index: 3;
+	position: absolute;
+	top: 34px;
+	left: 5.6%;
+	width: 300px;
+	height: 60px;
+}
+
+#project {
+	background-image: url(../img/project.png);
+	background-size: 100%;
+}
+
+#project img {
+	width: 231px;
+}
+
+#nav_project {
+	z-index: 3;
+	position: absolute;
+	top: 44px;
+	left: 31.5%;
+	width: 120px;
+	height: 30px;
+}
+
+#project_type {
+	background-image: url(../img/project_type.png);
+	background-size: 100%;
+}
+
+#nav_project_type {
+	z-index: 3;
+	position: absolute;
+	top: 44px;
+	left: 42%;
+	width: 120px;
+	height: 30px;
+}
+
+#model {
+	background-image: url(../img/model.png);
+	background-size: 100%;
+}
+
+#nav_model {
+	z-index: 3;
+	position: absolute;
+	top: 44px;
+	left: 52.5%;
+	width: 120px;
+	height: 30px;
+}
+
+#custom {
+	background-image: url(../img/custom.png);
+	background-size: 100%;
+}
+
+#nav_custom {
+	z-index: 3;
+	position: absolute;
+	top: 44px;
+	left: 63%;
+	width: 120px;
+	height: 30px;
+}
+
+#service {
+	background-image: url(../img/service.png);
+	background-size: 100%;
+}
+
+#nav_service {
+	z-index: 3;
+	position: absolute;
+	top: 44px;
+	left: 73.5%;
+	width: 120px;
+	height: 30px;
+}
+
+#about {
+	background-image: url(../img/about.png);
+	background-size: 100%;
+}
+
+#nav_about {
+	z-index: 3;
+	position: absolute;
+	top: 44px;
+	left: 84%;
+	width: 120px;
+	height: 30px;
+}
+
+#navBar li {
+	left: 10%;
 }
